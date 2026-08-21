@@ -7,7 +7,7 @@ SECRET_KEY = 'django-insecure-...ваш-ключ...'  # замените на с
 
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['lapotopstore.onrender.com', 'localhost', '127.0.0.1']
 
 # Приложения
 INSTALLED_APPS = [
